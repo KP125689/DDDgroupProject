@@ -16,5 +16,25 @@ namespace formsapp1
         {
             InitializeComponent();
         }
+
+        private void FrontPage_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signIn_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
