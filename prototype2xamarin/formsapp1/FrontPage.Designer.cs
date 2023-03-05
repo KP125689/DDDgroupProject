@@ -1,6 +1,6 @@
 ﻿namespace formsapp1
 {
-    partial class Form1
+    partial class FrontPage
     {
         /// <summary>
         /// Required designer variable.
